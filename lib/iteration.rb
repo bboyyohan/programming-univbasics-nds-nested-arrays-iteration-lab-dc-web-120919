@@ -38,7 +38,7 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   total = 0
-  array = []
+  i = 0
   while total < src.count do 
     if (total )
 end
